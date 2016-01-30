@@ -5,7 +5,7 @@ from ploxys import main
 
 host = input("Type the master's ip: ")
 porta = 600
-ok = True #the ok is again, for avoid excessive printing
+ok = True #the ok is again, to avoid excessive printing
 while True:
     time.sleep(0.1) #basic time waiting so it wont flood the connection
     while True:
