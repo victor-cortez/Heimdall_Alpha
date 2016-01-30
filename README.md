@@ -44,6 +44,8 @@ About the UCA's (English) : https://www.youtube.com/watch?v=ovG_k2b3AXU (the UCA
 
 More about the UCA's (Portuguese) : http://www.cceinfo.com.br/uca/ (Hardware information)| https://blog.ufba.br/ucabahia/nosso-blog/
 
+There is some sample data i stored in .txt and in excel sheet if you want to take a look.
+
 
 Also check the ploxys directory for more information about the base-task of this implementation.
 
