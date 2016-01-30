@@ -5,7 +5,7 @@ from collections import OrderedDict
 initial_ploxys = []
 num_rounds = 1
 
-
+#prototype, ignore it
 
 if __name__ == '__main__':
     #main loop

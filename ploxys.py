@@ -53,7 +53,7 @@ def main(num_ploxys,num_foods,min_lifespan,max_lifespan):
                 pass
             else:
                 foods.remove(food)
-        #data storage
+        #if all the ploxs are dead, the population reached the 1000 limit or the round is 10000 it finishes the simulation and return how many rounds they survived
         if len(ploxys) == 0 or len(ploxys) > 1000 or conta >= 10000:
             return conta
             break
